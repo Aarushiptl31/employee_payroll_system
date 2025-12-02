@@ -55,9 +55,9 @@ Payroll System
  
  ┗lib
  
-   ┣ mysql-connector-j-X.X.0.jar
+    ┣ mysql-connector-j-X.X.0.jar
    
-   ┗ payroll.sql
+    ┗ payroll.sql
 
 ----------------------------------------------------------------------------------------------------
 
