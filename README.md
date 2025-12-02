@@ -6,11 +6,17 @@ The system supports Full-Time and Part-Time employees and works with a MySQL dat
 -----------------------------------------------------------------------------------------------------
 
 📌 Features
+
 ✔ Add Full-Time Employee
+
 ✔ Add Part-Time Employee
+
 ✔ Store employee details in MySQL
+
 ✔ View all employees
+
 ✔ Search employee by ID
+
 ✔ Object-Oriented structure (Inheritance, Classes, Methods, Encapsulation)
 
 -----------------------------------------------------------------------------------------------------
